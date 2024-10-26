@@ -1,9 +1,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IwantHAPPINESS&show_icons=true&theme=tokyonight)
 
-<div align="center">
-  <h2>My stats</h2>
-  <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IwantHAPPINESS&theme=tokyonight&layout=pie)](https://github.com/anuraghazra/github-readme-stats) 
-  <br/><br/><br/>
-</div>
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IwantHAPPINESS&theme=tokyonight&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
